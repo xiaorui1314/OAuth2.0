@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ejs": "^2.6.1",
+    "koa": "^2.5.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.1.2",
+    "nodemon": "^1.17.5",
+    "request": "^2.87.0"
+  }
+}
